@@ -34,3 +34,7 @@ This project is a frontend application built using ReactJS and Bootstrap to disp
 - **ExchangeRate-API:** To get exchange rates in real time.
 - **React Hooks:** For public administration.
 - **Chart Library:** For data visualization# exchange-rates
+
+2. Install dependencies:
+   npm install --force
+# exchange-rates
