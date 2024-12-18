@@ -38,3 +38,4 @@ This project is a frontend application built using ReactJS and Bootstrap to disp
 2. Install dependencies:
    npm install --force
 # exchange-rates
+# exchange-rates
